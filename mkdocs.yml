@@ -1,0 +1,31 @@
+site_name: Docker docs
+
+nav:
+- Get started:
+    - What is Docker?: docker_overview.md
+    - Introduction:
+        - intro/index.md
+- Guides:
+    - Get Docker Desktop: intro/get_docker_desktop.md
+    # - Develop with containers: intro/develop_with_containers.md
+    - Build and push the image: intro/build_and_push.md
+
+theme:
+  name: material
+  logo: assets/logo.png
+  palette:
+    primary: blue
+
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+        alternate_style: true
