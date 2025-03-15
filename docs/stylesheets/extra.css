@@ -2,7 +2,7 @@
     margin-right: 0;
     margin-bottom: 0;
     padding-top: 0;
-    padding-bottom: 0;
+    padding-bottom: 20;
 }
 
 .md-header__button.md-logo img, .md-header__button.md-logo svg {
@@ -17,7 +17,4 @@
     line-height: 4rem;
     }
 
- /*  Navigation tabs */
- .md-tabs__list {
-    justify-content: left;
-  }
+

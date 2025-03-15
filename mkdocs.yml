@@ -38,7 +38,8 @@ theme:
     - navigation.tabs.sticky
     - navigation.footer
     - navigation.top
-    - header.autohide
+    - navigation.instant
+    - navigation.instant.progress
 
 markdown_extensions:
   - attr_list
