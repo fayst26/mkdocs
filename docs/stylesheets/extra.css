@@ -1,0 +1,24 @@
+.md-header__button.md-logo {
+    margin-right: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 3rem;
+    width: 3rem;
+}
+
+.md-header__title {
+    font-style: italic;
+    flex-grow: 1;
+    font-size: 1.5rem;
+    height: 3.5rem;
+    line-height: 4rem;
+    }
+
+ /*  Navigation tabs */
+ .md-tabs__list {
+    justify-content: left;
+  }

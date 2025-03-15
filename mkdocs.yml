@@ -1,4 +1,4 @@
-site_name: Docker docs
+site_name: Google Docs
 
 nav:
 - Get started:
@@ -7,26 +7,58 @@ nav:
         - intro/index.md
 - Guides:
     - Get Docker Desktop: intro/get_docker_desktop.md
-    # - Develop with containers: intro/develop_with_containers.md
+    - Develop with containers: intro/develop_with_containers.md
     - Build and push the image: intro/build_and_push.md
 
 theme:
+  font:
+    text: Noto Sans
   name: material
-  logo: assets/logo.png
-  favicon: images/favicon.png
+  icon:
+    logo: material/file-document-outline
+  favicon: assets/favicon.png
   palette:
-    primary: blue
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/lightbulb 
+        name: Switch to dark mode
 
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+      
   features:
     - navigation.indexes
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.footer
+    - navigation.top
+    - header.autohide
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.superfences
   - pymdownx.tabbed:
         alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+
+
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
