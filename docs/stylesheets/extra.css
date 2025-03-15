@@ -11,7 +11,6 @@
 }
 
 .md-header__title {
-    font-style: italic;
     flex-grow: 1;
     font-size: 1.5rem;
     height: 3.5rem;
