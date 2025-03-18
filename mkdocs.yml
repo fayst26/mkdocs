@@ -5,14 +5,30 @@ site_name: Google Docs
     # - chapters level: 
 
 nav:
-- Get started:
-    - What is Docker?: docker_overview.md
-    - Introduction:
-        - intro/index.md
-- Guides:
-    - Get Docker Desktop: intro/get_docker_desktop.md
-    - Develop with containers: intro/develop_with_containers.md
-    - Build and push the image: intro/build_and_push.md
+- Document: 
+    - document/index.md
+    - Create a document: document/document_create.md
+    - Download a document: document/document_download.md
+    - Print a document: document/document_print.md
+       
+- Format:
+    - edit/index.md
+    - Format text: edit/format_text.md
+    - Change paragraph styles: edit/change_paragraph_styles.md
+    - Align and indent text: edit/align_and_indent_text.md
+    - Change line and paragraph spacing: edit/change_line_and_paragraph_spacing.md
+    - Add bullets and numbering: edit/add_bullets_and_numbering.md
+
+- Content:
+    - content/index.md
+    - Format text: edit/format_text.md
+    - Change paragraph styles: edit/change_paragraph_styles.md
+    - Align and indent text: edit/align_and_indent_text.md
+    - Change line and paragraph spacing: edit/change_line_and_paragraph_spacing.md
+    - Add bullets and numbering: edit/add_bullets_and_numbering.md
+
+- Manage add-ons:
+    - content/index.md
 
 theme:
   font:
