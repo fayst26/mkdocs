@@ -27,8 +27,11 @@ nav:
     - Change line and paragraph spacing: edit/change_line_and_paragraph_spacing.md
     - Add bullets and numbering: edit/add_bullets_and_numbering.md
 
-- Manage add-ons:
+- Settings:
     - content/index.md
+    - settings/settings_access.md
+    - settings/settings_page.md
+    - settings/settings_addon.md
 
 theme:
   font:
@@ -62,6 +65,8 @@ theme:
     - navigation.instant.progress
 
 markdown_extensions:
+  - attr_list
+  - pymdownx.blocks.caption
   - attr_list
   - md_in_html
   - admonition

@@ -17,4 +17,9 @@
     line-height: 4rem;
     }
 
+.md-content img {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    }
 
