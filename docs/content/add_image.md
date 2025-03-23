@@ -1,6 +1,6 @@
 # Add image to a document
 
-To add an image to a document, start with opening a document in Google Docs and click **Insert** > **Image**:
+To add an image to a document, open a document in Google Docs and click **Insert** > **Image**:
 
 === "Upload"
     1. Click **Upload from computer**.

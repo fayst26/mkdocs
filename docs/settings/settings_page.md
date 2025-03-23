@@ -1,6 +1,6 @@
 # Manage the page settings
 
-Google Docs supports pages and pageless modes. To change the page settings in Google Docs, start with opening a document in Google Docs:
+Google Docs supports pages and pageless modes. To change the page settings, open a document in Google Docs:
 
 === "Pages"
 

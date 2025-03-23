@@ -13,9 +13,8 @@
      - EPUB (.epub)
      - Markdown (.md)
 
-To download a file:
+To download a file, open it in Google Docs:
 
-1. Open a document in Google Docs.
 1. Click **File** > **Download**.
 1. Select the required file format.
 
