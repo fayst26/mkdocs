@@ -12,24 +12,27 @@ nav:
     - Print a document: document/document_print.md
        
 - Format:
-    - edit/index.md
-    - Format text: edit/format_text.md
-    - Change paragraph styles: edit/change_paragraph_styles.md
-    - Align and indent text: edit/align_and_indent_text.md
-    - Change line and paragraph spacing: edit/change_line_and_paragraph_spacing.md
-    - Add bullets and numbering: edit/add_bullets_and_numbering.md
+    - edit/format_text.md
+    # - Change paragraph styles: edit/change_paragraph_styles.md
+    # - Align and indent text: edit/align_and_indent_text.md
+    # - Change line and paragraph spacing: edit/change_line_and_paragraph_spacing.md
+    # - Add bullets and numbering: edit/add_bullets_and_numbering.md
 
 - Content:
     - content/index.md
     - Add an image: content/add_image.md
     - Add a chart: content/add_chart.md
+    - Add a table: content/add_table.md
 
 
 - Settings:
     - settings/index.md
     - Manage document access: settings/settings_access.md
     - Manage the page settings: settings/settings_page.md
-    - Manage add-ons: settings/settings_addon.md
+    - Manage add-ons:
+      - settings/addon_install.md
+      - settings/addon_manage.md
+      - settings/addon_uninstall.md
 
 theme:
   font:
@@ -61,6 +64,9 @@ theme:
     - navigation.top
     - navigation.instant
     - navigation.instant.progress
+    # - navigation.sections
+    - navigation.expand
+
 
 markdown_extensions:
   - attr_list

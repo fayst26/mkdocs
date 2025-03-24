@@ -21,7 +21,7 @@ Google Docs supports pages and pageless modes. To change the page settings, open
 
     1. Click **File** > **Page setup**.    
     1. In the **Page setup** dialog, click **Pageless**.
-        - Optional: From the **Background color** color picker, select the required color.
+    1. Optional: From the **Background color** color picker, select the required color.
     1. Click **OK**.
 
 

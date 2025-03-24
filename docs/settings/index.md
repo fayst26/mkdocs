@@ -31,6 +31,6 @@
 
     ---
 
-    [:fontawesome-solid-magnifying-glass: Learn more](settings_addon.md)
+    [:fontawesome-solid-magnifying-glass: Learn more](addon_install.md)
 
 </div>
