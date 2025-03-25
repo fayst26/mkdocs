@@ -1,0 +1,33 @@
+.md-header__button.md-logo {
+    margin-right: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 20;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 3rem;
+    width: 3rem;
+}
+
+.md-header__title {
+    flex-grow: 1;
+    font-size: 1.5rem;
+    height: 3.5rem;
+    line-height: 4rem;
+    }
+
+.md-content img {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    }
+
+.plus{
+    font-size: 1.3em;
+  }
+
+  .main_page{
+    font-size: 3em;
+  }
+
