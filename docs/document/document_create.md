@@ -4,7 +4,7 @@ To create new Google Docs document, do the following:
 
 === "Google Docs"
 
-    1. Open Docs.
+    1. Open Google Docs.
     1. To create blank document, click :octicons-plus-16: **Blank document**.
     1. Optional: To create new document from template, select a template from **Template gallery**.
 

@@ -15,7 +15,7 @@
 
 To download a file, do the following:
 
-1. Open a document in Google Docs:
+1. Open a document in Google Docs.
 1. Click **File** > **Download**.
 1. Select the required file format.
 

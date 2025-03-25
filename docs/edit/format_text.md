@@ -1,5 +1,5 @@
 # Format a text
-In Google Docs, text can be formated using menu icons or **Format** tab.
+In Google Docs, text can be formatted using menu icons or **Format** tab.
 
 Prerequisites:
 

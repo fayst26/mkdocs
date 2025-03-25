@@ -5,7 +5,7 @@
 - :material-file-document:{ .plus }&nbsp;&nbsp;&nbsp;Create a document
 
     ---
-    Create new document with Docs, Drive, or existing document.
+    Create new documents with Docs, Drive, or existing documents.
     
     ---
 
@@ -27,7 +27,7 @@
 
     ---
 
-    Print a document or create a PDF using browser.
+    Print a document or create a PDF using a browser.
 
     ---
 

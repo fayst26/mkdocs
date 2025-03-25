@@ -1,6 +1,6 @@
 # Uninstall an add-on
 
-To unistall an add-on, do the following:
+To uninstall an add-on, do the following:
 
 1. Open a document in Google Docs.
 1. Click **Extensions** > **Add-ons** > **Manage add-ons**.

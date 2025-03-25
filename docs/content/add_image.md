@@ -50,7 +50,7 @@ To add an image to the document, do the following.
 
     1. Open the document in Google Docs.
     1. Click **Insert** > **Image**:
-    1. Сlick **By URL**.
+    1. Click **By URL**.
     1. Enter the image URL in the field and click **Insert image**.
 
 Image is now added to the document.
