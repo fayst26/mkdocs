@@ -1,11 +1,13 @@
 # Manage the page settings
 
-Google Docs supports pages and pageless modes. To change the page settings, open a document in Google Docs:
+Google Docs supports pages and pageless modes. To change the page settings, do the following:
+:
 
 === "Pages"
 
     ![Page settings](../assets/settings_page.png){ align=right : style="height:476px;width:335px"}
 
+    1. Open a document in Google Docs.
     1. Click **File** > **Page setup**.
     1. In the **Page setup** dialog, click **Pages**.
         - From the **Apply** to list, select where to apply the changes.
@@ -19,6 +21,7 @@ Google Docs supports pages and pageless modes. To change the page settings, open
 
     ![Pageless settings](../assets/settings_pageless.png){ align=right : style="height:476px;width:335px"}
 
+    1. Open a document in Google Docs.
     1. Click **File** > **Page setup**.    
     1. In the **Page setup** dialog, click **Pageless**.
     1. Optional: From the **Background color** color picker, select the required color.

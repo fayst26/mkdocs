@@ -1,6 +1,6 @@
 # Create a document
 
-To create new Google Docs document:
+To create new Google Docs document, do the following:
 
 === "Google Docs"
 
@@ -16,6 +16,7 @@ To create new Google Docs document:
 
 === "Document"
 
-    - To create new document from existing one, Click **File** > **New** > **Document**. 
+    1. Open a document.
+    1. Click **File** > **New** > **Document**. 
 
 The document is created.

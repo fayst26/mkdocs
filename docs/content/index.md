@@ -16,7 +16,7 @@
 
     ---
 
-    Add different types of charts to your document.
+    Use different types of charts in your document.
     
     ---
 

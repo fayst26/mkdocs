@@ -1,10 +1,15 @@
 # Format a text
 In Google Docs, text can be formated using menu icons or **Format** tab.
 
-## Format with icons
-To format a text, open a document in Google Docs and select the text:
+Prerequisites:
 
-1. To change a font, select a font from the **Font** list.
+- Open a document in Google Docs and select the text.
+
+## Format with icons
+
+To format a text, do the following:
+
+1. To change a font, select the font from the **Font** list.
 
     ![Font](../assets/format_font.png){ style="height:50%;width:50%"}
 
@@ -27,7 +32,8 @@ To format a text, open a document in Google Docs and select the text:
 
 
 ## Use format tab
-To format a text, open a document in Google Docs and select the text:
+
+To format a text, do the following:
 
 1. To change font style, click **Format** > **Text**:
     - To make text bold, click :fontawesome-solid-bold: **Bold**

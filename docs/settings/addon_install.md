@@ -1,9 +1,10 @@
-# Install add-ons
+# Install an add-on
 
-To install add-ons, open a document in Google Docs:
+To install an add-on, do the following:
 
+1. Open a document in Google Docs.
 1. Click **Extensions** > **Add-ons** > **Get add-ons**.
-1. In the **Google Workspace Marketplace** dialog, select add-on.
+1. In the **Google Workspace Marketplace** dialog, select the add-on.
 1. To install the add-on, click **Install** > **Continue**.
 
     !!! info
